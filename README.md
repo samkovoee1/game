@@ -167,7 +167,7 @@
   <section id="kontakt">
     <h2>Kontakt</h2>
     <p>Máš tip, nápad nebo chceš přispět svou recenzí?</p>
-    <p>Napiš nám na: <a href="mailto:info@hernisvet.cz">info@hernisvet.cz</a></p>
+    <p>Napiš nám na: <a href="mailto:samprediger10@gmail.com">info@hernisvet.cz</a></p>
   </section>
 
 </main>
