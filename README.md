@@ -1,19 +1,18 @@
-# game
 <!DOCTYPE html>
-<html lang="sk">
+<html lang="cs">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Herný Svet</title>
+  <title>Herní Svět</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1>Herný Svet</h1>
+    <h1>Herní Svět</h1>
     <nav>
       <ul>
         <li><a href="#novinky">Novinky</a></li>
-        <li><a href="#recenzie">Recenzie</a></li>
+        <li><a href="#recenze">Recenze</a></li>
         <li><a href="#top-hry">Top Hry</a></li>
         <li><a href="#kontakt">Kontakt</a></li>
       </ul>
@@ -23,12 +22,12 @@
   <main>
     <section id="novinky">
       <h2>Novinky</h2>
-      <p>Najnovšie informácie zo sveta hier. Pravidelne aktualizované články o pripravovaných tituloch.</p>
+      <p>Nejnovější zprávy ze světa videoher. Sleduj připravované tituly, oznámení a trailery.</p>
     </section>
 
-    <section id="recenzie">
-      <h2>Recenzie</h2>
-      <p>Objektívne recenzie najnovších hier – od AAA titulov po indie klenoty.</p>
+    <section id="recenze">
+      <h2>Recenze</h2>
+      <p>Upřímné a detailní recenze nejnovějších her. Poradíme, co stojí za to si zahrát.</p>
     </section>
 
     <section id="top-hry">
@@ -36,22 +35,21 @@
       <ul>
         <li>Cyberpunk 2077: Phantom Liberty</li>
         <li>Elden Ring</li>
-        <li>The Witcher 3: Wild Hunt</li>
-        <li>Stalker 2</li>
+        <li>The Witcher 3: Divoký hon</li>
+        <li>Stalker 2: Heart of Chornobyl</li>
       </ul>
     </section>
 
     <section id="kontakt">
       <h2>Kontakt</h2>
-      <p>Napíš nám na <a href="mailto:info@hernysvet.sk">info@hernysvet.sk</a></p>
+      <p>Napiš nám na <a href="mailto:samprediger10@gmail.com">samprediger10@gmail.com</a></p>
     </section>
   </main>
 
   <footer>
-    <p>&copy; 2025 Herný Svet. Všetky práva vyhradené.</p>
+    <p>&copy; 2025 Herní Svět. Všechna práva vyhrazena.</p>
   </footer>
 </body>
-
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
@@ -105,10 +103,11 @@ h2 {
   padding-bottom: 5px;
   margin-bottom: 15px;
 }
-</html>
+
 footer {
   background-color: #111;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
 }
+</html>
